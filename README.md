@@ -14,7 +14,7 @@ A script to monitor the NTP offset with [Zabbix](https://zabbix.com).
 
 ## Licence
 
-GPL-2 (see [debian/copyright](debian/copyright))
+GPLv2 or later (see [debian/copyright](debian/copyright))
 
 ## Template for the Zabbix frontend
 
